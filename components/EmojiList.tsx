@@ -14,8 +14,7 @@ const EmojiList = ({ onClose, setpickedEmoji }: props) => {
     images.sticker1,
     images.sticker2,
     images.sticker3,
-    images.sticker4,
-    images.sticker5,
+    
   ]);
   return (
     <FlatList
